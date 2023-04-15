@@ -8,4 +8,8 @@
   <title lang="en">Learning XML</title>
   <price>39.95</price>
 </book>
+<book>
+  <title lang="ru">Чернобыль</title>
+  <price>12.5</price>
+</book>
 </bookstore>
